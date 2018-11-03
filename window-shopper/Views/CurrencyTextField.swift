@@ -25,6 +25,7 @@ class CurrencyTextField: UITextField {
         currencyLabel.text = formatter.currencySymbol
         addSubview(currencyLabel)
     }
+    
     override func prepareForInterfaceBuilder() {
         customizeView()
     }
