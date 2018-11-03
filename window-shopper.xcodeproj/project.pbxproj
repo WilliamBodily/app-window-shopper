@@ -177,10 +177,12 @@
 				TargetAttributes = {
 					8DAE338420F84315004B597C = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1010;
 						TestTargetID = 8DD60D2520816A67002C0F15;
 					};
 					8DD60D2520816A67002C0F15 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1010;
 					};
 				};
 			};
@@ -289,7 +291,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.williambodily.window-shopperTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/window-shopper.app/window-shopper";
 			};
@@ -310,7 +312,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.williambodily.window-shopperTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/window-shopper.app/window-shopper";
 			};
@@ -443,7 +445,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.williambodily.window-shopper";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -461,7 +463,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.williambodily.window-shopper";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
